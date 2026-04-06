@@ -6,7 +6,7 @@ A clean, responsive Finance Dashboard built with React. Designed as a proof proj
 
 ## Live Demo
 
-🔗 [Click here to view live](https://finflow-yourname.vercel.app)
+🔗 [Click here to view live]((https://finco-app-six.vercel.app/))
 
 ---
 
