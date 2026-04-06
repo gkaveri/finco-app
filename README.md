@@ -60,7 +60,6 @@ src/
 │   └── AppContext.jsx
 ├── data/
 │   ├── mockData.js
-│   └── mockApi.js
 ├── pages/
 │   ├── Dashboard.jsx
 │   ├── Transactions.jsx
@@ -72,7 +71,7 @@ src/
 ## Getting Started
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/finflow.git
+git clone [https://github.com/gkaveri/finco-app.git]
 
 # Navigate into the project
 cd zorvyn-project
@@ -97,8 +96,6 @@ This project demonstrates:
 -> Responsive design for mobile and desktop
 -> Dark mode with Tailwind class strategy
 
----
-
 ## Author
 
-Built by Kaveri · [GitHub Profile](https://github.com/yourusername)
+Built by Kaveri · [GitHub Profile](https://github.com/gkaveri)
