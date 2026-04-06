@@ -11,8 +11,28 @@ A clean, responsive Finance Dashboard built with React. Designed as a proof proj
 ---
 
 ## Screenshots
+### Dashboard view(Desktop View)
+![Dashboard Light](https://github.com/user-attachments/assets/a45283e4-bc86-4a13-830f-bb99291dbbc7)
+![Dashboard](https://github.com/user-attachments/assets/160b650b-e031-40ed-91a6-9d4e8ea68d1f)
 
-> Will be added after deployment
+### Transactions Page
+![Transactions](https://github.com/user-attachments/assets/ed6782cf-a735-4e55-99b3-e6ff85d0d09e)
+![Transations with grouping](https://github.com/user-attachments/assets/158935c0-446b-41ee-ade0-8d26ffd57fd4)
+
+### Insights Page
+![Insights](https://github.com/user-attachments/assets/48dc043b-d021-4ec9-a8ba-0ad0a4b24dad)
+
+### Dark Mode
+![Dashboard dark](https://github.com/user-attachments/assets/ed3f20d8-7133-4120-b87c-fb7ef1b56d67)
+
+### Mobile View
+![Dashboard](https://github.com/user-attachments/assets/3124567c-4cef-4efc-9e0d-8064098c37dc)
+![Insights page](https://github.com/user-attachments/assets/fb2dd0dd-857e-4a20-8d32-8c5bdfb2c346)
+
+
+
+
+
 
 ---
 
@@ -55,7 +75,6 @@ src/
 │   ├── LineChart.jsx
 │   ├── PieChart.jsx
 │   ├── TransactionTable.jsx
-│   └── Loader.jsx
 ├── context/
 │   └── AppContext.jsx
 ├── data/
